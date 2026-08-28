@@ -1,0 +1,36 @@
+$ pwd
+/workspaces/linux-c-lab/command-line/command-line-easy
+
+$ ls
+easy-log.txt
+test.txt
+
+$ cd command-line && mkdir command-line-easy && cd command-line-easy
+(directory already created and in use)
+
+$ touch hello.txt
+(file created)
+
+$ nano hello.txt   # wrote: Hello Linux!
+(saved with Ctrl+O, Enter, Ctrl+X)
+
+$ cp hello.txt hello-copy.txt
+(copied)
+
+$ mv hello-copy.txt ../
+(moved to command-line/)
+
+$ rm hello.txt
+(removed)
+
+$ cat ../hello-copy.txt
+Hello Linux!
+
+$ man ls
+(manual page for ls displayed)
+
+$ echo "Test" > test.txt
+(file created)
+
+$ cat test.txt
+Test

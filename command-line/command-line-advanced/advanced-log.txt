@@ -1,0 +1,19 @@
+Directory listing for: /workspaces/linux-c-lab
+Generated: Fri Aug 28 14:33:14 UTC 2026
+---
+/workspaces/linux-c-lab
+├── README.md
+├── c-programs
+├── command-line
+│   ├── command-line-advanced
+│   ├── command-line-easy
+│   ├── command-line-intermediate
+│   └── hello-copy.txt
+└── shell-scripts
+
+7 directories, 2 files
+gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+
+Networking test: curl https://example.com -> HTTP 200
+ip addr (excerpt): see ip-addr.txt
+alias ll='ls -l' added to ~/.bashrc and confirmed with: alias ll='ls -l'

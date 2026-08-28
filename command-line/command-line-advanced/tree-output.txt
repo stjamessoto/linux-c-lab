@@ -1,0 +1,11 @@
+/workspaces/linux-c-lab
+├── README.md
+├── c-programs
+├── command-line
+│   ├── command-line-advanced
+│   ├── command-line-easy
+│   ├── command-line-intermediate
+│   └── hello-copy.txt
+└── shell-scripts
+
+7 directories, 2 files
